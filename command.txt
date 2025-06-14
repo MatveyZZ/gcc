@@ -1,0 +1,2 @@
+tar -xvzf SDL2-devel-2.32.8-mingw.tar.gz -C sdl
+Скачивание из архива 
